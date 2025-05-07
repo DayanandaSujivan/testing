@@ -1,2 +1,3 @@
-greeting = "Hello Every one!"
-print(greeting)
+greeting = "hello"
+name = "Sujivan"
+print(greeting+" "+name)
